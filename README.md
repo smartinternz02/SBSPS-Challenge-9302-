@@ -1,6 +1,5 @@
 # SBSPS-Challenge-9302-
 
-backend deployed link - https://ibmflask-varu20cs155-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com/?Query=smartwatch
 
 used openshift for deployment
 
